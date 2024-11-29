@@ -1,13 +1,18 @@
 package com.project.Plantes.Medicinales.responses;
-public class CommentResponseDTO {
-    private Long id;
-    private String content;
-    private String userName;
 
-    public CommentResponseDTO(Long id, String content, String userName) {
-        this.id = id;
-        this.content = content;
-        this.userName = userName;
+import com.project.Plantes.Medicinales.entities.Commentaire;
+import com.project.Plantes.Medicinales.entities.User;
+
+public class CommentResponseDTO {
+    private Long id ;
+    private String content ;
+    private String userFullName ;
+
+    public CommentResponseDTO(Commentaire commentaire) {
+        this.id = commentaire.getId();
+        this.content = commentaire.getContent();
+      //  this.userName = userName;
+        this.userFullName = commentaire.getUser() != null ? commentaire.getUser().getFullName() : "Utilisateur inconnu";
     }
 
     public Long getId() {
@@ -18,20 +23,20 @@ public class CommentResponseDTO {
         this.id = id;
     }
 
-    public String getUserName() {
-        return userName;
-    }
-
-    public void setUserName(String userName) {
-        this.userName = userName;
-    }
-
     public String getContent() {
         return content;
     }
 
     public void setContent(String content) {
         this.content = content;
+    }
+
+    public String getUserFullName() {
+        return userFullName;
+    }
+
+    public void setUserFullName(String userFullName) {
+        this.userFullName = userFullName;
     }
 }
 

@@ -244,9 +244,7 @@ public class PlanteController {
             Commentaire savedComment = commentaireRepository.save(commentaire);
 
             CommentResponseDTO responseDTO = new CommentResponseDTO(
-                    savedComment.getId(),
-                    savedComment.getContent(),
-                    user.getFullName()
+                    savedComment
             );
 
             return ResponseEntity.ok(responseDTO);
@@ -270,11 +268,7 @@ public class PlanteController {
 
             // Transformer les commentaires en CommentResponseDTO
             List<CommentResponseDTO> responseDTOs = commentaires.stream()
-                    .map(c -> new CommentResponseDTO(
-                            c.getId(),
-                            c.getContent(),
-                            c.getUser().getFullName() // Assurez-vous que `getFullName()` existe dans User
-                    ))
+                    .map(comment -> new CommentResponseDTO(comment)) // Utiliser chaque commentaire individuellement
                     .toList();
 
             // Retourner la liste des DTO
@@ -284,6 +278,7 @@ public class PlanteController {
             return ResponseEntity.status(500).build();
         }
     }
+
 
 
 
