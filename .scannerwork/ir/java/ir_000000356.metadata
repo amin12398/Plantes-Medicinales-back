@@ -1,9 +1,3 @@
-com.project.Plantes.Medicinales.controller.ArticleController#getAllArticles()LResponseEntity;
+com.project.Plantes.Medicinales.responses.LoginResponse#setToken(Ljava/lang/String;)Lcom/project/Plantes/Medicinales/responses/LoginResponse;
 false
-02575497c0f3b555ed811b50d8dcf046
-==
-!unknownMethod! !unknownMethod!
-getAllArticles com.project.Plantes.Medicinales.service.ArticleService#getAllArticles()Ljava/util/List;
-map java.util.stream.Stream#map(Ljava/util/function/Function;)Ljava/util/stream/Stream;
-stream java.util.Collection#stream()Ljava/util/stream/Stream;
-toList java.util.stream.Stream#toList()Ljava/util/List;
+7b9a3a6e8bade0523486d444388dfef5

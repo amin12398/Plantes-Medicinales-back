@@ -1,3 +1,3 @@
-com.project.Plantes.Medicinales.config.SecurityConfiguration#instance-init#
+com.project.Plantes.Medicinales.entities.User#getPlantes()Ljava/util/List;
 false
-d2ef5bfce0b9ff01a71160177a0940ca
+b9e3c15b6c30608157775e1aae286c4a

@@ -1,3 +1,5 @@
-com.project.Plantes.Medicinales.service.AuthenticationService#<init>(Lcom/project/Plantes/Medicinales/repository/UserRepository;LAuthenticationManager;LPasswordEncoder;)V
+com.project.Plantes.Medicinales.controller.PlanteController#afficherToutesLesPlantes()Ljava/util/List;
 false
-ec4ea007e34b50a1b5af3fa3f00decbc
+d705fd1bcca27c15ec043edc315f84ff
+==
+afficherToutesLesPlantes com.project.Plantes.Medicinales.service.PlanteService#afficherToutesLesPlantes()Ljava/util/List;

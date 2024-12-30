@@ -1,3 +1,5 @@
-com.project.Plantes.Medicinales.responses.ArticleFlatResponse#getId()Ljava/lang/Integer;
+com.project.Plantes.Medicinales.config.ApplicationConfiguration#authenticationManager(LAuthenticationConfiguration;)LAuthenticationManager;
 false
-b5f104874fbb1c5766579f4ec75adaca
+9f9f7da4cce57f3bff88ad2e1873d3e4
+==
+!unknownMethod! !unknownMethod!

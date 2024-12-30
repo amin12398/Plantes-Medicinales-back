@@ -1,6 +1,3 @@
-com.project.Plantes.Medicinales.controller.PlanteController#supprimerPlante(Ljava/lang/Long;)LResponseEntity;
+com.project.Plantes.Medicinales.config.WebConfig#<init>()V
 false
-e28e3999642143c561cc1dc5c63704cc
-==
-!unknownMethod! !unknownMethod!
-supprimerPlante com.project.Plantes.Medicinales.service.PlanteService#supprimerPlante(Ljava/lang/Long;)V
+e009302952681d37f7c6c12ca43956db

@@ -1,19 +1,16 @@
 
-Kcom.project.Plantes.Medicinales.entities.User#getArticles()Ljava/util/List;y
-mC:/Users/essao/Plantes-Medicinales-back-main/src/main/java/com/project/Plantes/Medicinales/entities/User.javaŠ Š($"1*À
-1
-‹ ‹(ˆ
+Mcom.project.Plantes.Medicinales.entities.User#getFullName()Ljava/lang/String;w
+mC:/Users/essao/Plantes-Medicinales-back-main/src/main/java/com/project/Plantes/Medicinales/entities/User.javaa a("1*¾
+1b b(ˆ
 …
-
-‹ ‹(
-%0java.util.List"__id*[
+b b(
+%0java.lang.String"__id*[
 
 __unknown_file (?*=/
 -com.project.Plantes.Medicinales.entities.User"
 
-articles"$
-
-‹ ‹(
-
-%0java.util.ListB1/
+fullName"$
+b b(
+
+%0java.lang.StringB1/
 -com.project.Plantes.Medicinales.entities.UserH

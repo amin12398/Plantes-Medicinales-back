@@ -1,3 +1,6 @@
-com.project.Plantes.Medicinales.entities.Article#getCreatedAt()Ljava/util/Date;
+com.project.Plantes.Medicinales.config.SecurityConfiguration#securityFilterChain(LHttpSecurity;)LSecurityFilterChain;
 false
-ccbb2cb75f302383e773918b00db564f
+3f9aa5cc38161a7cdb98fee67076f922
+==
+!unknownMethod! !unknownMethod!
+corsConfigurationSource com.project.Plantes.Medicinales.config.SecurityConfiguration#corsConfigurationSource()LCorsConfigurationSource;

@@ -8,6 +8,7 @@ import lombok.NoArgsConstructor;
 import org.hibernate.annotations.NotFound;
 import org.hibernate.annotations.NotFoundAction;
 
+import java.util.ArrayList;
 import java.util.List;
 
 @Entity
@@ -35,4 +36,6 @@ public class Plante {
     @NotFound(action = NotFoundAction.IGNORE)
     @JsonIgnore
     private User user; // Associated user
+
+
 }

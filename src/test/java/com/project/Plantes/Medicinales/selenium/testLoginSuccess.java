@@ -27,8 +27,8 @@ public class testLoginSuccess {
         WebElement loginButton = driver.findElement(By.xpath("//button[contains(text(), 'Login')]"));
 
         // Enter credentials and click login
-        emailField.sendKeys("Jidadf@gmail.com");
-        passwordField.sendKeys("jidada1234aer");
+        emailField.sendKeys("useryt@gmail.com");
+        passwordField.sendKeys("useryt23aew23");
         loginButton.click();
 
         // Handle the alert (if it appears)

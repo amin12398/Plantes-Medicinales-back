@@ -1,6 +1,3 @@
-com.project.Plantes.Medicinales.config.SecurityConfiguration#securityFilterChain(LHttpSecurity;)LSecurityFilterChain;
+com.project.Plantes.Medicinales.entities.User#toString()Ljava/lang/String;
 false
-3f9aa5cc38161a7cdb98fee67076f922
-==
-!unknownMethod! !unknownMethod!
-corsConfigurationSource com.project.Plantes.Medicinales.config.SecurityConfiguration#corsConfigurationSource()LCorsConfigurationSource;
+d82e889632b086bbd4badd2f9c017b0c

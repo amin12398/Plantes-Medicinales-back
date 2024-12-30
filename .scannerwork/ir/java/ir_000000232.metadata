@@ -1,6 +1,13 @@
-com.project.Plantes.Medicinales.service.JwtService#extractClaim(Ljava/lang/String;Ljava/util/function/Function;)Ljava/lang/Object;
+com.project.Plantes.Medicinales.service.ArticleServiceTest#getAllArticles_shouldReturnArticles()V
 false
-891b329f59be1e09feee3129c42c2302
-com.project.Plantes.Medicinales.service.JwtService#extractAllClaims(Ljava/lang/String;)LClaims;
+b4a955111c6e87e29268616f66044c28
+com.project.Plantes.Medicinales.entities.Article#<init>()V
+com.project.Plantes.Medicinales.entities.Article#instance-init#
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
 ==
 !unknownMethod! !unknownMethod!
+get java.util.List#get(I)Ljava/lang/Object;
+getAllArticles com.project.Plantes.Medicinales.service.ArticleService#getAllArticles()Ljava/util/List;
+getTitle com.project.Plantes.Medicinales.entities.Article#getTitle()Ljava/lang/String;
+setTitle com.project.Plantes.Medicinales.entities.Article#setTitle(Ljava/lang/String;)V
+size java.util.List#size()I

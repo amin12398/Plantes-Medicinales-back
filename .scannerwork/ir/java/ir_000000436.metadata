@@ -1,5 +1,3 @@
-com.project.Plantes.Medicinales.selenium.testLoginSuccess#tearDown()V
+com.project.Plantes.Medicinales.responses.ArticleFlatResponse#getId()Ljava/lang/Integer;
 false
-429fc54ade665271478e195f04bcedd4
-==
-!unknownMethod! !unknownMethod!
+b5f104874fbb1c5766579f4ec75adaca

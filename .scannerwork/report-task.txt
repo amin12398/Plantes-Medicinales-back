@@ -1,7 +1,7 @@
 organization=project-org12020
 projectKey=project-org12020_medicinal-plante
 serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.58616
+serverVersion=8.0.0.58632
 dashboardUrl=https://sonarcloud.io/dashboard?id=project-org12020_medicinal-plante
-ceTaskId=AZPUE8WV9QGJzLHL_YCq
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZPUE8WV9QGJzLHL_YCq
+ceTaskId=AZPWvJ6J6eAG9Hh7Ackl
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZPWvJ6J6eAG9Hh7Ackl

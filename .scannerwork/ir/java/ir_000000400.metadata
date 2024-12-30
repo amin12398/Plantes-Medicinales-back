@@ -1,3 +1,5 @@
-com.project.Plantes.Medicinales.config.ApplicationConfiguration#userDetailsService()LUserDetailsService;
+com.project.Plantes.Medicinales.service.ArticleService#deleteArticle(Ljava/lang/Integer;)V
 false
-559745acc7b54d4c394bcd3dc56e7161
+79cb42c7a5f7f7c5ac78209c4ad36d56
+==
+!unknownMethod! !unknownMethod!

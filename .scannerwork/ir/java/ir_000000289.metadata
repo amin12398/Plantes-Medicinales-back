@@ -1,3 +1,6 @@
-com.project.Plantes.Medicinales.entities.Article#getId()Ljava/lang/Integer;
+com.project.Plantes.Medicinales.service.PlanteServiceTest#testSupprimerPlante()V
 false
-4cc83359ce480c4aecc51709af48f9f8
+b3d66cad30b6ede4f7a3d1707a22742e
+==
+!unknownMethod! !unknownMethod!
+supprimerPlante com.project.Plantes.Medicinales.service.PlanteService#supprimerPlante(Ljava/lang/Long;)V

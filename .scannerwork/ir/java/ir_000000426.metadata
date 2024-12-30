@@ -1,3 +1,3 @@
-com.project.Plantes.Medicinales.responses.ArticleFlatResponse#setImage(Ljava/lang/String;)V
+com.project.Plantes.Medicinales.dtos.RegisterUserDto#setPassword(Ljava/lang/String;)Lcom/project/Plantes/Medicinales/dtos/RegisterUserDto;
 false
-60f0f6395b64bb6c542ab2e2bf3ebcc6
+0a4a52248a163430078c588c69de203f

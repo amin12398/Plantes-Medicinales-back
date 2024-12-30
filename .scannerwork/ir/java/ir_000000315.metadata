@@ -1,5 +1,3 @@
-com.project.Plantes.Medicinales.service.PlanteService#rechercheParPreaucaution(Ljava/lang/String;)Ljava/util/List;
+com.project.Plantes.Medicinales.entities.Article#setUser(Lcom/project/Plantes/Medicinales/entities/User;)V
 false
-cf11fa508bcb8e4a18cd6de5d384d9a0
-==
-findByPreaucautionContaining com.project.Plantes.Medicinales.repository.IDaoPlante#findByPreaucautionContaining(Ljava/lang/String;)Ljava/util/List;
+6c7ea0fea70ee6fc8d625f6fe76c782b

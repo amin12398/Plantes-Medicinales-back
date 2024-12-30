@@ -1,15 +1,15 @@
 
-Zcom.project.Plantes.Medicinales.responses.ArticleFlatResponse#getImage()Ljava/lang/String;‡
-}C:/Users/essao/Plantes-Medicinales-back-main/src/main/java/com/project/Plantes/Medicinales/responses/ArticleFlatResponse.java1 1("1*Ë
-12 2(•
-’
-2 2(
-%0java.lang.String"__id*h
+Qcom.project.Plantes.Medicinales.dtos.RegisterUserDto#getEmail()Ljava/lang/String;~
+tC:/Users/essao/Plantes-Medicinales-back-main/src/main/java/com/project/Plantes/Medicinales/dtos/RegisterUserDto.java ("1*Â
+1	 	(Œ
+‰
+	 	(
+%0java.lang.String"__id*_
 
-__unknown_file (L*J?
-=com.project.Plantes.Medicinales.responses.ArticleFlatResponse"
-image"$
-2 2(
+__unknown_file (C*A6
+4com.project.Plantes.Medicinales.dtos.RegisterUserDto"
+email"$
+	 	(
 
-%0java.lang.StringBA?
-=com.project.Plantes.Medicinales.responses.ArticleFlatResponseH
+%0java.lang.StringB86
+4com.project.Plantes.Medicinales.dtos.RegisterUserDtoH

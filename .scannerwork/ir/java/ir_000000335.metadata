@@ -1,3 +1,5 @@
-com.project.Plantes.Medicinales.config.WebConfig#webConfigurer()LWebMvcConfigurer;
+com.project.Plantes.Medicinales.service.PlanteService#supprimerPlante(Ljava/lang/Long;)V
 false
-b8c863a79422822b0c22cec6b6862d7d
+6ec6eb4176f65b185e0f4f02dda4f324
+==
+!unknownMethod! !unknownMethod!

@@ -1,4 +1,6 @@
-com.project.Plantes.Medicinales.entities.User#getAuthorities()Ljava/util/Collection;
+com.project.Plantes.Medicinales.service.JwtService#extractAllClaims(Ljava/lang/String;)LClaims;
 false
-65e34ec0d122c3e49e5806d9b19b8b51
-java.util.List#of()Ljava/util/List;
+7c5547da5f01d3cfccc5f0f0739f8492
+com.project.Plantes.Medicinales.service.JwtService#getSignInKey()Ljava/security/Key;
+==
+!unknownMethod! !unknownMethod!

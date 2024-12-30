@@ -1,3 +1,5 @@
-com.project.Plantes.Medicinales.dtos.LoginUserDto#instance-init#
+com.project.Plantes.Medicinales.controller.UserController#authenticatedUser()LResponseEntity;
 false
-afb9ad2a399dd13bd144bbb1dab5ac90
+773961625a46f416d0a8b253d8ecae8e
+==
+!unknownMethod! !unknownMethod!

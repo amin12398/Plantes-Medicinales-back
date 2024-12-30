@@ -1,3 +1,6 @@
-com.project.Plantes.Medicinales.responses.ArticleWithUserResponse#instance-init#
+com.project.Plantes.Medicinales.service.JwtService#extractClaim(Ljava/lang/String;Ljava/util/function/Function;)Ljava/lang/Object;
 false
-1845e493754a574fc731885b35a50b4d
+891b329f59be1e09feee3129c42c2302
+com.project.Plantes.Medicinales.service.JwtService#extractAllClaims(Ljava/lang/String;)LClaims;
+==
+!unknownMethod! !unknownMethod!

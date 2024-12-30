@@ -1,4 +1,6 @@
-com.project.Plantes.Medicinales.service.JwtService#generateToken(Ljava/util/Map;LUserDetails;)Ljava/lang/String;
+com.project.Plantes.Medicinales.service.ArticleServiceTest#deleteArticle_shouldCallDeleteById()V
 false
-a09ce353301e1a1a9f2b19e76b86ae23
-com.project.Plantes.Medicinales.service.JwtService#buildToken(Ljava/util/Map;LUserDetails;J)Ljava/lang/String;
+dc3edfd36a70b9e6fb2e3309fd6a4295
+==
+!unknownMethod! !unknownMethod!
+deleteArticle com.project.Plantes.Medicinales.service.ArticleService#deleteArticle(Ljava/lang/Integer;)V

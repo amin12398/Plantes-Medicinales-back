@@ -1,5 +1,3 @@
-com.project.Plantes.Medicinales.controller.PlanteController#afficherToutesLesPlantes()Ljava/util/List;
+com.project.Plantes.Medicinales.responses.CommentResponseDTO#setContent(Ljava/lang/String;)V
 false
-d705fd1bcca27c15ec043edc315f84ff
-==
-afficherToutesLesPlantes com.project.Plantes.Medicinales.service.PlanteService#afficherToutesLesPlantes()Ljava/util/List;
+428cddd68b641bb1590f40c84151269d

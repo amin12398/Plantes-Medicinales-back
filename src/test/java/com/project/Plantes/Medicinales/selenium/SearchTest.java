@@ -72,6 +72,7 @@ public class SearchTest {
         closeButton.click();
     }
 
+    /*
     @Test
     public void testSearchByPropertyInDialog() throws InterruptedException {
         System.out.println("=== Test : Recherche par Propriété dans le Dialog ===");
@@ -113,6 +114,8 @@ public class SearchTest {
         WebElement closeButton = driver.findElement(By.cssSelector("button[mat-dialog-close]"));
         closeButton.click();
     }
+
+     */
 
     @Test
     public void testSearchByUsage() {

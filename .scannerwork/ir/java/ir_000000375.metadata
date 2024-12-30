@@ -1,6 +1,5 @@
-com.project.Plantes.Medicinales.controller.UserController#allUsers()LResponseEntity;
+com.project.Plantes.Medicinales.controller.ArticleController#deleteAll()LResponseEntity;
 false
-591ac2b63a5243e556a387511228697e
+15f88861d3e919d95f02b8d3c8dd92fe
 ==
 !unknownMethod! !unknownMethod!
-allUsers com.project.Plantes.Medicinales.service.UserService#allUsers()Ljava/util/List;

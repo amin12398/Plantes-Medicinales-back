@@ -1,6 +1,3 @@
-com.project.Plantes.Medicinales.controller.ArticleController#deleteArticle(Ljava/lang/Integer;)LResponseEntity;
+com.project.Plantes.Medicinales.responses.LoginResponse#getExpiresIn()J
 false
-bbae973b1fdd73f2d5aa1012040d7940
-==
-!unknownMethod! !unknownMethod!
-deleteArticle com.project.Plantes.Medicinales.service.ArticleService#deleteArticle(Ljava/lang/Integer;)V
+586cf846a19ee3110d0d7675047de824

@@ -1,3 +1,3 @@
-com.project.Plantes.Medicinales.entities.User#setCreatedAt(Ljava/util/Date;)Lcom/project/Plantes/Medicinales/entities/User;
+com.project.Plantes.Medicinales.entities.User#isCredentialsNonExpired()Z
 false
-0ff015e5ce2862b6eed482b778605029
+1d4d1843e1a9db3142abfd24bb37747b

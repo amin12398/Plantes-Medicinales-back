@@ -1,5 +1,3 @@
-com.project.Plantes.Medicinales.service.PlanteService#rechercheParPropriete(Ljava/lang/String;)Ljava/util/List;
+com.project.Plantes.Medicinales.entities.Article#setContent(Ljava/lang/String;)V
 false
-1c9595ba4d6db5cd42bd8f36b31aeb3f
-==
-findByProprietesContaining com.project.Plantes.Medicinales.repository.IDaoPlante#findByProprietesContaining(Ljava/lang/String;)Ljava/util/List;
+5e904b1aadd3aea354ad37bfecdf42a0

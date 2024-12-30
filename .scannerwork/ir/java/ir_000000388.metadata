@@ -1,5 +1,6 @@
-com.project.Plantes.Medicinales.selenium.AddArticleTest#testAddArticle()V
+com.project.Plantes.Medicinales.selenium.AiAssistantTest#testAskAiAssistant()V
 false
-f8790986c045fcef9b5d75b4aba33a37
+240ca73de36af10bbedb5fb12b8f64d4
 ==
 !unknownMethod! !unknownMethod!
+println java.io.PrintStream#println([C)V

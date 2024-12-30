@@ -1,8 +1,3 @@
-com.project.Plantes.Medicinales.selenium.SearchTest#testSearchByUsage()V
+com.project.Plantes.Medicinales.entities.User#getArticles()Ljava/util/List;
 false
-4758b8210a3d32e06720ef90cd28d74a
-java.lang.String#contains(Ljava/lang/CharSequence;)Z
-java.lang.String#toLowerCase()Ljava/lang/String;
-==
-!unknownMethod! !unknownMethod!
-println java.io.PrintStream#println(Ljava/lang/String;)V
+21f8a5da0108c51ea0bae490bc586dea

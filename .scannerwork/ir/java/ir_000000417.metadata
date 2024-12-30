@@ -1,3 +1,3 @@
-com.project.Plantes.Medicinales.responses.ArticleFlatResponse#instance-init#
+com.project.Plantes.Medicinales.config.ApplicationConfiguration#userDetailsService()LUserDetailsService;
 false
-79f315ecd45add64074f407f53232235
+559745acc7b54d4c394bcd3dc56e7161

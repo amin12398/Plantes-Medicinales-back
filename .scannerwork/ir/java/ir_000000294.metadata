@@ -1,3 +1,8 @@
-com.project.Plantes.Medicinales.entities.Article#setImage(Ljava/lang/String;)V
+com.project.Plantes.Medicinales.selenium.SearchTest#testSearchByPropertyInDialog()V
 false
-e00120cbcb3f86a494e5eabd539694d9
+8324ae529b5b461615309b403009dd17
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+java.lang.String#toLowerCase()Ljava/lang/String;
+==
+!unknownMethod! !unknownMethod!
+println java.io.PrintStream#println(Ljava/lang/String;)V

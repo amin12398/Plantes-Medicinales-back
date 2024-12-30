@@ -1,7 +1,3 @@
-com.project.Plantes.Medicinales.controller.PlanteController#rechercherprecaution(Ljava/lang/String;)LResponseEntity;
+com.project.Plantes.Medicinales.config.WebConfig#instance-init#
 false
-efa7fbfb446451cdefaaab594fd02c3e
-==
-!unknownMethod! !unknownMethod!
-isEmpty java.util.List#isEmpty()Z
-rechercheParPreaucaution com.project.Plantes.Medicinales.service.PlanteService#rechercheParPreaucaution(Ljava/lang/String;)Ljava/util/List;
+6f3bdab8d7b17bfd8c1c74c087d537f9

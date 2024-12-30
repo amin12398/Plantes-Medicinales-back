@@ -1,8 +1,6 @@
-com.project.Plantes.Medicinales.service.JwtService#isTokenValid(Ljava/lang/String;LUserDetails;)Z
+com.project.Plantes.Medicinales.controller.AuthenticationController#register(Lcom/project/Plantes/Medicinales/dtos/RegisterUserDto;)LResponseEntity;
 false
-027e57cb2ab36eb9f3663301f05bbd7f
-com.project.Plantes.Medicinales.service.JwtService#isTokenExpired(Ljava/lang/String;)Z
-java.lang.String#equals(Ljava/lang/Object;)Z
+4ac36cfcdb08ac100ba6d31bcf664b83
 ==
 !unknownMethod! !unknownMethod!
-extractUsername com.project.Plantes.Medicinales.service.JwtService#extractUsername(Ljava/lang/String;)Ljava/lang/String;
+signup com.project.Plantes.Medicinales.service.AuthenticationService#signup(Lcom/project/Plantes/Medicinales/dtos/RegisterUserDto;)Lcom/project/Plantes/Medicinales/entities/User;

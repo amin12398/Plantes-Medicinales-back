@@ -1,6 +1,3 @@
-com.project.Plantes.Medicinales.controller.PlanteController#getAllPlantes()LResponseEntity;
+com.project.Plantes.Medicinales.responses.CommentResponseDTO#getUserFullName()Ljava/lang/String;
 false
-63bf9804406cd938a3b1da71d65ffd55
-==
-!unknownMethod! !unknownMethod!
-afficherToutesLesPlantes com.project.Plantes.Medicinales.service.PlanteService#afficherToutesLesPlantes()Ljava/util/List;
+1a9b680b50bbfcf2e96a086154ee75b7

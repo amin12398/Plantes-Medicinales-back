@@ -1,9 +1,3 @@
-com.project.Plantes.Medicinales.service.ArticleService#saveImage(LMultipartFile;)Ljava/lang/String;
+com.project.Plantes.Medicinales.entities.Plante#<init>()V
 false
-3c1511bd1b76aa3b6fcd5bfdf93ef9bb
-java.lang.System#currentTimeMillis()J
-java.nio.file.Files#createDirectories(Ljava/nio/file/Path;[Ljava/nio/file/attribute/FileAttribute;)Ljava/nio/file/Path;
-java.nio.file.Files#write(Ljava/nio/file/Path;[B[Ljava/nio/file/OpenOption;)Ljava/nio/file/Path;
-java.nio.file.Paths#get(Ljava/lang/String;[Ljava/lang/String;)Ljava/nio/file/Path;
-==
-!unknownMethod! !unknownMethod!
+cef174c6c504ab8551a6512a2c671b57

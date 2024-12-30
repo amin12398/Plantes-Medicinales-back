@@ -1,3 +1,3 @@
-com.project.Plantes.Medicinales.entities.User#getArticles()Ljava/util/List;
+com.project.Plantes.Medicinales.entities.User#setId(Ljava/lang/Integer;)Lcom/project/Plantes/Medicinales/entities/User;
 false
-21f8a5da0108c51ea0bae490bc586dea
+a40b5c7593ce153126f0c9be8e8cd40f

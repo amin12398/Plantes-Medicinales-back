@@ -1,21 +1,17 @@
 
-{com.project.Plantes.Medicinales.entities.User#setUpdatedAt(Ljava/util/Date;)Lcom/project/Plantes/Medicinales/entities/User;y
-mC:/Users/essao/Plantes-Medicinales-back-main/src/main/java/com/project/Plantes/Medicinales/entities/User.java… …("1*ã
-1
-† †("
-
-
-† †(">/
--com.project.Plantes.Medicinales.entities.User"
-	updatedAt"__id*9
+wcom.project.Plantes.Medicinales.entities.User#setId(Ljava/lang/Integer;)Lcom/project/Plantes/Medicinales/entities/User;w
+mC:/Users/essao/Plantes-Medicinales-back-main/src/main/java/com/project/Plantes/Medicinales/entities/User.java\ \("1*Ò
+1] ](ƒ
+€
+] ](7/
+-com.project.Plantes.Medicinales.entities.User"
+id"__id*5
 
-__unknown_file (
-
-	updatedAtjava.util.Date"?
-
-‡ ‡(1/
--com.project.Plantes.Medicinales.entities.User:)
-
-… …(+
-	updatedAtjava.util.DateB1/
+__unknown_file (
+
+idjava.lang.Integer"=
+^ ^(1/
+-com.project.Plantes.Medicinales.entities.User:#
+\ \( 
+idjava.lang.IntegerB1/
 -com.project.Plantes.Medicinales.entities.UserH

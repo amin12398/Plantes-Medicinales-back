@@ -1,7 +1,3 @@
-com.project.Plantes.Medicinales.selenium.AiAssistantTest#setUp()V
+com.project.Plantes.Medicinales.controller.ArticleController#instance-init#
 false
-435cb3ba537cb622e1476e6ebb5ea606
-java.lang.System#setProperty(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
-java.time.Duration#ofSeconds(J)Ljava/time/Duration;
-==
-!unknownMethod! !unknownMethod!
+1fe90ee46464cb915de2a20a1b17929b

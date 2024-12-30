@@ -1,9 +1,7 @@
-com.project.Plantes.Medicinales.service.AuthenticationService#authenticate(Lcom/project/Plantes/Medicinales/dtos/LoginUserDto;)Lcom/project/Plantes/Medicinales/entities/User;
+com.project.Plantes.Medicinales.controller.PlanteController#rechercherParNom(Ljava/lang/String;)LResponseEntity;
 false
-f99f4f64e49ef53d4ae4e74b353dc0c9
-java.util.Optional#orElseThrow()Ljava/lang/Object;
+422e2bdbbbd405981e757a16bb3d2c01
 ==
 !unknownMethod! !unknownMethod!
-findByEmail com.project.Plantes.Medicinales.repository.UserRepository#findByEmail(Ljava/lang/String;)Ljava/util/Optional;
-getEmail com.project.Plantes.Medicinales.dtos.LoginUserDto#getEmail()Ljava/lang/String;
-getPassword com.project.Plantes.Medicinales.dtos.LoginUserDto#getPassword()Ljava/lang/String;
+isEmpty java.util.List#isEmpty()Z
+rechercherParNom com.project.Plantes.Medicinales.service.PlanteService#rechercherParNom(Ljava/lang/String;)Ljava/util/List;

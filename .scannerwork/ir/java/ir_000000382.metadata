@@ -1,6 +1,6 @@
-com.project.Plantes.Medicinales.service.ArticleService#getAllArticles()Ljava/util/List;
+com.project.Plantes.Medicinales.service.AuthenticationService#allUsers()Ljava/util/List;
 false
-d0509366ee5b2e6f3b9f9783c316a308
+95360bc0a9f8ce5ac6182a3a080f78ad
 java.util.ArrayList#<init>()V
 java.util.ArrayList#instance-init#
 ==

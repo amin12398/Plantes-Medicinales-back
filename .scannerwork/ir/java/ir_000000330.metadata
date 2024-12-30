@@ -1,3 +1,5 @@
-com.project.Plantes.Medicinales.responses.CommentResponseDTO#setUserFullName(Ljava/lang/String;)V
+com.project.Plantes.Medicinales.service.PlanteService#rechercheParPropriete(Ljava/lang/String;)Ljava/util/List;
 false
-77968cf728e56bb997f611a799ada521
+1c9595ba4d6db5cd42bd8f36b31aeb3f
+==
+findByProprietesContaining com.project.Plantes.Medicinales.repository.IDaoPlante#findByProprietesContaining(Ljava/lang/String;)Ljava/util/List;

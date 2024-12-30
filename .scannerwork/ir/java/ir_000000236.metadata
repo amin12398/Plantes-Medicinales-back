@@ -1,9 +1,3 @@
-com.project.Plantes.Medicinales.service.JwtService#buildToken(Ljava/util/Map;LUserDetails;J)Ljava/lang/String;
+com.project.Plantes.Medicinales.controller.AuthenticationController#<init>(Lcom/project/Plantes/Medicinales/service/JwtService;Lcom/project/Plantes/Medicinales/service/AuthenticationService;)V
 false
-42c1034ac2bc2f9017df721cb9425e2c
-com.project.Plantes.Medicinales.service.JwtService#getSignInKey()Ljava/security/Key;
-java.lang.System#currentTimeMillis()J
-java.util.Date#<init>(J)V
-java.util.Date#instance-init#
-==
-!unknownMethod! !unknownMethod!
+c05289230b581eafff0164a1dc29aed5

@@ -1,3 +1,7 @@
-com.project.Plantes.Medicinales.responses.ArticleFlatResponse#setId(Ljava/lang/Integer;)V
+com.project.Plantes.Medicinales.config.ApplicationConfiguration#authenticationProvider()LAuthenticationProvider;
 false
-276555233c4b9f111fd559c4fe14ce38
+ac330e7f21e5b4aa8d23f9704f4af169
+==
+!unknownMethod! !unknownMethod!
+passwordEncoder com.project.Plantes.Medicinales.config.ApplicationConfiguration#passwordEncoder()LBCryptPasswordEncoder;
+userDetailsService com.project.Plantes.Medicinales.config.ApplicationConfiguration#userDetailsService()LUserDetailsService;

@@ -1,3 +1,4 @@
-com.project.Plantes.Medicinales.responses.ArticleWithUserResponse#getArticle()Lcom/project/Plantes/Medicinales/entities/Article;
+com.project.Plantes.Medicinales.service.JwtService#generateToken(Ljava/util/Map;LUserDetails;)Ljava/lang/String;
 false
-35c7177b2c200d37cc3ce179e6bc62dd
+a09ce353301e1a1a9f2b19e76b86ae23
+com.project.Plantes.Medicinales.service.JwtService#buildToken(Ljava/util/Map;LUserDetails;J)Ljava/lang/String;

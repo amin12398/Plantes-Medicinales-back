@@ -1,15 +1,7 @@
 
-Lcom.project.Plantes.Medicinales.entities.User#getCreatedAt()Ljava/util/Date;w
-mC:/Users/essao/Plantes-Medicinales-back-main/src/main/java/com/project/Plantes/Medicinales/entities/User.javax x("1*»
-1y y(‡
-„
-y y(
-%0java.util.Date"__id*\
-
-__unknown_file (@*>/
--com.project.Plantes.Medicinales.entities.User"
-	createdAt""
-y y(
-
-%0java.util.DateB1/
--com.project.Plantes.Medicinales.entities.UserH
+Hcom.project.Plantes.Medicinales.entities.User#isCredentialsNonExpired()Zw
+mC:/Users/essao/Plantes-Medicinales-back-main/src/main/java/com/project/Plantes/Medicinales/entities/User.javaO O(*"1*!
+1P P("
+P P(
+""B1/
+-com.project.Plantes.Medicinales.entities.UserHX
